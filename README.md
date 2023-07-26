@@ -39,7 +39,7 @@
 ![HTML5](https://img.shields.io/badge/-tailwindcss-000000?style=flat&logo=tailwindcss)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=owskar&show_icons=true&locale=en&layout=compact" alt="owskar" /></p>
 
