@@ -1,28 +1,45 @@
+![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi 👋, I'm Owskar Ganbawale</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207..](https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owskar&label=Profile%20views&color=0e75b6&style=flat" alt="owskar" /> </p>
 
-<p align="left"> <a href="https://twitter.com/owskar043" target="blank"><img src="https://img.shields.io/twitter/follow/owskar043?logo=twitter&style=for-the-badge" alt="owskar043" /></a> </p>
 
 - 🌱 I’m currently learning **React.js ,Node.js**
 
-- 📝 I regularly write articles on Krishna Consciousness [https://owskuuuu.blogspot.com/](https://owskuuuu.blogspot.com/)
+- 📝 I regularly write articles on Krishna Consciousness  [https://owskuuuu.blogspot.com/](https://owskuuuu.blogspot.com/)
 
 - 📫 How to reach me **oskarganbawale@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/owskar043" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="owskar043" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/owskar-ganbawale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="owskar-ganbawale" height="30" width="40" /></a>
-<a href="https://fb.com/owskar ganbawale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="owskar ganbawale" height="30" width="40" /></a>
-<a href="https://instagram.com/owskar_043" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="owskar_043" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/owskarganbawale_043" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="owskarganbawale_043" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+   [![Linkedin Badge](https://img.shields.io/badge/-owskar_ganbawale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/owskar-ganbawale/)](https://www.linkedin.com/in/owskar-ganbawale/) 
+   [![Gmail Badge](https://img.shields.io/badge/-oskarganbawale-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oskarganbawale@gmail.com)](mailto:oskarganbawale.com)
+    [![GeeksforGeeks Badge](https://img.shields.io/badge/-owskar-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/owskar/practice)](https://auth.geeksforgeeks.org/user/owskar/practice)
+     [![Codingninjas Badge](https://img.shields.io/badge/-owskar-orange?style=flat&logo=codingninjas&logoColor=white&link=https://www.codingninjas.com/studio/profile/Owskar)](https://www.codingninjas.com/studio/profile/Owskar)
+   [![Instagram Badge](https://img.shields.io/badge/-@owskar_043-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/owskar_43/)](https://www.instagram.com/owskar_43/) 
+   [![Facebook Badge](https://img.shields.io/badge/-owskar_ganbawale-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/oskar.ganbawale/)](https://www.facebook.com/oskar.ganbawale/)
+  
+
+   <!-- [![Twitter Badge](https://img.shields.io/badge/-@verma_anushkaa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/verma_anushkaa)](https://twitter.com/verma_anushkaa)  -->
+   
+
+<h3>Languages I have used<h3>
+
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-tailwindcss-000000?style=flat&logo=tailwindcss)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=owskar&show_icons=true&locale=en&layout=compact" alt="owskar" /></p>
 
