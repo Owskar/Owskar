@@ -20,6 +20,7 @@
    [![Gmail Badge](https://img.shields.io/badge/-oskarganbawale-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oskarganbawale@gmail.com)](mailto:oskarganbawale.com)
     [![GeeksforGeeks Badge](https://img.shields.io/badge/-owskar-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/owskar/practice)](https://auth.geeksforgeeks.org/user/owskar/practice)
      [![Codingninjas Badge](https://img.shields.io/badge/-owskar-orange?style=flat&logo=codingninjas&logoColor=white&link=https://www.codingninjas.com/studio/profile/Owskar)](https://www.codingninjas.com/studio/profile/Owskar)
+      [![Leetcode Badge](https://img.shields.io/badge/-owskar-darkorange?style=flat&logo=leetcode&logoColor=black&link=https://leetcode.com/Owskarganbawale_043/)](https://leetcode.com/Owskarganbawale_043/)   
    [![Instagram Badge](https://img.shields.io/badge/-@owskar_043-purple?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/owskar_43/)](https://www.instagram.com/owskar_43/) 
    [![Facebook Badge](https://img.shields.io/badge/-owskar_ganbawale-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/oskar.ganbawale/)](https://www.facebook.com/oskar.ganbawale/)
   
