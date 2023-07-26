@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Owskar Ganbawale</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://i.pinimg.com/originals/fa/7b/4b/fa7b4bdc3b2f73e749e5c2c646d4ae13.gif)">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owskar&label=Profile%20views&color=0e75b6&style=flat" alt="owskar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/owskar043" target="blank"><img src="https://img.shields.io/twitter/follow/owskar043?logo=twitter&style=for-the-badge" alt="owskar043" /></a> </p>
