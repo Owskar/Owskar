@@ -1,6 +1,6 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
-<h1 align="center">Hi 👋, I'm Owskar Ganbawale</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+![MasterHead](https://github.com/Owskar/Owskar/blob/main/github-header-image%20(2).png)
+<!--<h1 align="center">Hi 👋, I'm Owskar Ganbawale</h1>-->
+<h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/C5112AQE8ThPkmol2Jg/article-cover_image-shrink_720_1280/0/1584093168483?e=1718236800&v=beta&t=mlbZpZl-Jb-3vAP21TpZXLQiArO71hfX8kpL6V_GR7o">
 
 
