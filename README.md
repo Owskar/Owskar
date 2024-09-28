@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js ,Node.js**
 
-- 📝 I regularly write articles on Krishna Consciousness  [https://owskuuuu.blogspot.com/](https://owskuuuu.blogspot.com/)
+- 📝 I write articles on Krishna Consciousness  [https://owskuuuu.blogspot.com/](https://owskuuuu.blogspot.com/)
 
 - 📫 How to reach me **oskarganbawale@gmail.com**
 
