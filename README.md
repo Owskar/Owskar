@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owskar&label=Profile%20views&color=0e75b6&style=flat" alt="owskar" /> </p>
 
 
-- 🌱 I’m currently learning **React.js ,Node.js**
+- 🌱 I’m currently learning **React.js**
 
 - 📝 I write articles on Krishna Consciousness  [https://owskuuuu.blogspot.com/](https://owskuuuu.blogspot.com/)
 
@@ -37,7 +37,7 @@
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-tailwindcss-000000?style=flat&logo=tailwindcss)
+
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 
 
