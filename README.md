@@ -119,10 +119,10 @@
 
 ## 📊 GitHub Stats
 
-<!-- <p align="center">
+
   <img src="https://github-readme-stats.vercel.app/api?username=owskar&show_icons=true&locale=en" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=owskar&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165" />
-</p> -->
+ [ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=owskar&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165" />](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Owskar&layout=compact)
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=owskar" alt="GitHub Streak" height="165" />
 </p>
