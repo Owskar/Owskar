@@ -118,16 +118,15 @@
 ---
 
 ## 📊 GitHub Stats
-
-
-  <img src="https://github-readme-stats.vercel.app/api?username=owskar&show_icons=true&locale=en" alt="GitHub Stats" height="165" />
- [ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=owskar&show_icons=true&locale=en&layout=compact" alt="Top Languages" height="165" />](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Owskar&layout=compact)
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=owskar" alt="GitHub Streak" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Owskar&show_icons=true" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Owskar&layout=compact" height="165" />
 </p>
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Owskar" height="165" />
+</p>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
