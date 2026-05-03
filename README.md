@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- 🏢 Currently working as a **Trainee Software Engineer** at **Chanakya Software Services Pvt. Ltd.**
+- 🏢 Currently working as a **Software Engineer** at **Chanakya Software Services Pvt. Ltd.**
 - 🚀 Building a large-scale **education analytics platform** serving **250,000+ students** across Maharashtra
 - 🌱 I'm currently learning **React.js**
 - 🛡️ Implemented **RBAC systems** securing data access for **11,000+ users**
