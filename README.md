@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Owskar/Owskar/blob/main/github-header-image%20(3).png" alt="MasterHead" />
+  <img src="https://github.com/Owskar/Owskar/blob/main/github-header-banner.png" alt="MasterHead" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Owskar Ganbawale</h1>
