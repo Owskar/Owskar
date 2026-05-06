@@ -123,9 +123,9 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Owskar&layout=compact" height="165" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com?user=Owskar" height="165" />
-</p>
+</p> -->
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">
