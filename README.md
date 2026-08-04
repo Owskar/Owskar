@@ -1,13 +1,13 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+there%2C+I'm+Owskar+%F0%9F%91%8B;Full+Stack+Developer+%7C+Node.js+%C2%B7+SvelteKit+%C2%B7+PostgreSQL;Building+EdTech+%26+Analytics+Platforms+for+250K%2B+Students" alt="Typing Introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+there%2C+I'm+Owskar+%F0%9F%91%8B;Software+Developer+%7C+Node.js+%C2%B7+SvelteKit+%C2%B7+PostgreSQL;Turning+Complex+Systems+Into+Products+People+Use" alt="Typing Introduction" />
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=owskar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Owskar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Location-Pune%2C%20India-orange?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blueviolet?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-blueviolet?style=for-the-badge" alt="Focus" />
 </p>
 
 </div>
@@ -16,14 +16,14 @@
 
 ### 👋 About Me
 
-Full stack developer based in **Pune, Maharashtra, India**, currently working as a **Software Engineer at Chanakya Software Services Pvt. Ltd.**, building a large-scale education analytics platform used by **250,000+ students**. My core stack is **Node.js, SvelteKit, and PostgreSQL**, with hands-on experience in RBAC/authentication systems, CDC data pipelines (Kafka, Debezium, ClickHouse), and cross-platform mobile apps with CapacitorJS.
+I'm a **Software Developer** based in **Pune, Maharashtra, India**, working at **Chanakya Software Services Pvt. Ltd.**, where I design and ship the systems behind a platform that **250,000+ students rely on daily**. I like problems that sit at the intersection of scale and correctness — real-time data pipelines, access control that has to be right every time, and interfaces that don't get in the way. My core stack is **Node.js, SvelteKit, and PostgreSQL**.
 
-- 🏢 Software Engineer at **Chanakya Software Services Pvt. Ltd.**
-- 🚀 Building an **education analytics platform** serving **250,000+ students** across Pune
-- 🌱 Currently learning **React.js**
-- 🛡️ Implemented **RBAC systems** securing data access for **11,000+ users**
-- 📝 Write on Krishna Consciousness → [owskuuuu.blogspot.com](https://owskuuuu.blogspot.com/)
-- ⚡ Fun fact: I once rewrote a research paper at the DOCX XML level rather than lose the formatting
+- 🏗️ Architecting the backbone of an analytics platform used by **250,000+ students** across Pune
+- 🔐 Designed and shipped **RBAC infrastructure** that governs access for **11,000+ users**
+- ⚙️ Comfortable end-to-end: schema design → API → real-time pipelines (Kafka, Debezium, ClickHouse) → UI
+- 🌱 Currently sharpening **React.js**
+- 📝 Off the clock, I write on Krishna Consciousness → [owskuuuu.blogspot.com](https://owskuuuu.blogspot.com/)
+- ⚡ Once rewrote a research paper at the raw DOCX XML level rather than let the formatting break
 
 <table>
 <tr>
