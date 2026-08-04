@@ -1,90 +1,96 @@
 <div align="center">
-  <img src="https://github.com/Owskar/Owskar/blob/main/github-header-banner.png" alt="MasterHead" />
-</div>
 
-<h1 align="center">Hi 👋, I'm Owskar Ganbawale</h1>
-<h3 align="center">Full Stack Developer (Node.js · SvelteKit · PostgreSQL) from India 🇮🇳</h3>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Hi+there%2C+I'm+Owskar+Ganbawale+%F0%9F%91%8B;Full+Stack+Developer+%7C+Node.js+%C2%B7+SvelteKit+%C2%B7+PostgreSQL;Building+EdTech+%26+Analytics+Platforms+for+250K%2B+Students" alt="Owskar Ganbawale - Typing Introduction" />
+</a>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=owskar&label=Profile%20views&color=0e75b6&style=flat" alt="owskar" />
+<p>
+  <img src="https://komarev.com/ghpvc/?username=owskar&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Location-Pune%2C%20India-orange?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blueviolet?style=for-the-badge" alt="Focus" />
 </p>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## Owskar Ganbawale — Full Stack Developer (Node.js, SvelteKit, PostgreSQL)
 
-- 🏢 Currently working as a **Software Engineer** at **Chanakya Software Services Pvt. Ltd.**
+**Owskar Dayanand Ganbawale** is a full stack software developer based in **Pune, Maharashtra, India**, currently working as a **Software Engineer at Chanakya Software Services Pvt. Ltd.**, where he builds a large-scale education analytics platform used by **250,000+ students**. His work centers on **Node.js, SvelteKit, and PostgreSQL**, with hands-on experience across RBAC/authentication systems, CDC data pipelines (Kafka, Debezium, ClickHouse), and cross-platform mobile apps built with CapacitorJS.
+
+```yaml
+name: Owskar Dayanand Ganbawale
+role: Software Engineer @ Chanakya Software Services Pvt. Ltd.
+based_in: Pune, Maharashtra, India 🇮🇳
+currently_building: Education analytics platform serving 250,000+ students
+currently_learning: React.js
+security_work: RBAC systems securing data access for 11,000+ users
+writing: Krishna Consciousness articles → owskuuuu.blogspot.com
+philosophy: "Practical, architecture-driven software across web, mobile, and desktop"
+```
+
+- 🏢 Software Engineer at **Chanakya Software Services Pvt. Ltd.**
 - 🚀 Building a large-scale **education analytics platform** serving **250,000+ students** across Pune
-- 🌱 I'm currently learning **React.js**
+- 🌱 Currently learning **React.js**
 - 🛡️ Implemented **RBAC systems** securing data access for **11,000+ users**
-- 📝 I write articles on Krishna Consciousness → [owskuuuu.blogspot.com](https://owskuuuu.blogspot.com/)
+- 📝 Write articles on Krishna Consciousness → [owskuuuu.blogspot.com](https://owskuuuu.blogspot.com/)
 - 📫 Reach me at **[oskarganbawale@gmail.com](mailto:oskarganbawale@gmail.com)**
 
 ---
 
-## 🔗 Connect with Me
+### 🔗 Connect with Owskar Ganbawale
 
-[![LinkedIn](https://img.shields.io/badge/-owskar_ganbawale-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/owskar/)
-[![Gmail](https://img.shields.io/badge/-oskarganbawale-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:oskarganbawale@gmail.com)
-[![GitHub](https://img.shields.io/badge/-owskar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/owskar)
-[![GeeksforGeeks](https://img.shields.io/badge/-owskar-1c6340?style=flat&logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/owskar/practice)
-[![LeetCode](https://img.shields.io/badge/-owskar-darkorange?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/Owskar/)
-[![Coding Ninjas](https://img.shields.io/badge/-owskar-orange?style=flat&logo=codingninjas&logoColor=white)](https://www.codingninjas.com/studio/profile/Owskar)
-[![Instagram](https://img.shields.io/badge/-@owskar__043-purple?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/owskar_43/)
-[![Facebook](https://img.shields.io/badge/-owskar__ganbawale-036be4?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/oskar.ganbawale/)
+<p align="left">
+<a href="https://www.linkedin.com/in/owskar/" target="_blank"><img src="https://img.shields.io/badge/-owskar__ganbawale-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+<a href="mailto:oskarganbawale@gmail.com"><img src="https://img.shields.io/badge/-oskarganbawale-c14438?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+<a href="https://github.com/owskar" target="_blank"><img src="https://img.shields.io/badge/-owskar-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://auth.geeksforgeeks.org/user/owskar/practice" target="_blank"><img src="https://img.shields.io/badge/-owskar-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" /></a>
+<a href="https://leetcode.com/u/Owskar/" target="_blank"><img src="https://img.shields.io/badge/-owskar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.codingninjas.com/studio/profile/Owskar" target="_blank"><img src="https://img.shields.io/badge/-owskar-F86F03?style=for-the-badge&logo=codingninjas&logoColor=white" /></a>
+<a href="https://www.instagram.com/owskar_43/" target="_blank"><img src="https://img.shields.io/badge/-@owskar__043-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.facebook.com/oskar.ganbawale/" target="_blank"><img src="https://img.shields.io/badge/-owskar__ganbawale-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
+</p>
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java&logoColor=007396)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=1572B6)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-
-### Frontend
-![SvelteKit](https://img.shields.io/badge/-SvelteKit-000000?style=flat&logo=svelte&logoColor=FF3E00)
-![Svelte](https://img.shields.io/badge/-Svelte-000000?style=flat&logo=svelte&logoColor=FF3E00)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000000?style=flat&logo=tailwind-css&logoColor=38B2AC)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=7952B3)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=61DAFB)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=336791)
-![SQLite](https://img.shields.io/badge/-SQLite-000000?style=flat&logo=sqlite&logoColor=003B57)
-![Redis](https://img.shields.io/badge/-Redis-000000?style=flat&logo=redis&logoColor=DC382D)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
-![VS Code](https://img.shields.io/badge/-VS_Code-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![CapacitorJS](https://img.shields.io/badge/-CapacitorJS-000000?style=flat&logo=capacitor&logoColor=119EFF)
-![Streamlit](https://img.shields.io/badge/-Streamlit-000000?style=flat&logo=streamlit&logoColor=FF4B4B)
+Also findable as **Owskar Ganbawale** on [LinkedIn](https://www.linkedin.com/in/owskar/), [GitHub](https://github.com/owskar), [LeetCode](https://leetcode.com/u/Owskar/), [GeeksforGeeks](https://auth.geeksforgeeks.org/user/owskar/practice), and [Coding Ninjas](https://www.codingninjas.com/studio/profile/Owskar).
 
 ---
 
-## 🌍 Open Source Contributions
+### 🛠️ Tech Stack
 
-> I'm actively looking to contribute to open source projects. If you're a maintainer looking for contributors, feel free to reach out!
+<p align="left">
 
-- 🔍 Exploring contributions in **SvelteKit**, **Node.js**, and **developer tooling** ecosystems
-- 🐛 Interested in bug fixes, documentation improvements, and feature additions
-- 📬 Open to collaborating on **EdTech**, **analytics**, or **offline-first** projects
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,py,java,html,css,c,cpp" />
 
-> ⭐ *Watch this space — contributions coming soon!*
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=svelte,tailwind,bootstrap,react" />
+
+**Backend & Database**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,sqlite,redis" />
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+<img src="https://img.shields.io/badge/-CapacitorJS-119EFF?style=flat-square&logo=capacitor&logoColor=white" />
+<img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+<img src="https://img.shields.io/badge/-ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" />
+
+</p>
 
 ---
 
-## 💼 Freelance & Collaborative Work
+### 🌍 Open Source
 
-> Open to freelance opportunities in full-stack web development. Here's what I can help you build:
+> Actively looking to contribute to **SvelteKit**, **Node.js**, and developer-tooling ecosystems — bug fixes, docs, and features. Open to **EdTech**, **analytics**, and **offline-first** projects. Maintainers, feel free to reach out!
+
+---
+
+### 💼 Freelance & Collaborative Work
 
 | Service | Details |
 |---|---|
@@ -95,21 +101,19 @@
 | 🗄️ Database Design | PostgreSQL schema design, query optimization, Redis caching |
 | 🤖 Automation | Python-based automation scripts and voice-controlled tools |
 
-📩 Interested in working together? Drop me a mail at **[oskarganbawale@gmail.com](mailto:oskarganbawale@gmail.com)**
+📩 Interested in working together? Drop a mail at **[oskarganbawale@gmail.com](mailto:oskarganbawale@gmail.com)**
 
 ---
 
-## 🏆 Achievements
+### 🏆 Achievements
 
-- 🥇 **1st Rank** in Reflex event at inter-college Project Competition
-- 🎖️ Received appreciation letter from faculty for **teaching Mathematics-III** to peers
-- 🎁 Earned **goodies from GeeksforGeeks** for consistently solving daily POTD challenges
-- 🌐 Placed in **Top 500 nationwide** in the National Engineering Olympiad (NEO Global)
-- 💰 Served as **College Event Treasurer** — managed finances and logistics for multiple events
+- 🥇 **1st Rank** — Reflex event, inter-college Project Competition
+- 🎖️ Faculty appreciation letter for **teaching Mathematics-III** to peers
+- 🎁 **GeeksforGeeks goodies** for consistently solving daily POTD challenges
+- 🌐 **Top 500 nationwide** — National Engineering Olympiad (NEO Global)
+- 💰 **College Event Treasurer** — managed finances & logistics for multiple events
 
----
-
-## 📜 Certifications
+### 📜 Certifications
 
 - 🤖 **Career Essentials in Generative AI** — Microsoft & LinkedIn
 - 🛡️ **Generic Online Training in Cyber Security** — MeitY, Government of India
@@ -117,17 +121,27 @@
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Owskar&show_icons=true" height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Owskar&layout=compact" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Owskar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Owskar&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-<!-- <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Owskar" height="165" />
-</p> -->
--------------------------------------------------------------------------------------------------------------------------------------------------------
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Owskar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  <img src="https://raw.githubusercontent.com/Owskar/Owskar/output/github-contribution-grid-snake-dark.svg" alt="Owskar Ganbawale contribution snake animation" width="100%" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%" />
 </p>
