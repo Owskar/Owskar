@@ -22,8 +22,6 @@ I'm a **Software Developer** based in **Pune, Maharashtra, India**, working at *
 - 🔐 Designed and shipped **RBAC infrastructure** that governs access for **11,000+ users**
 - ⚙️ Comfortable end-to-end: schema design → API → real-time pipelines (Kafka, Debezium, ClickHouse) → UI
 - 🌱 Currently sharpening **React.js**
-- 📝 Off the clock, I write on Krishna Consciousness → [owskuuuu.blogspot.com](https://owskuuuu.blogspot.com/)
-- ⚡ Once rewrote a research paper at the raw DOCX XML level rather than let the formatting break
 
 <table>
 <tr>
@@ -145,19 +143,19 @@ I'm a **Software Developer** based in **Pune, Maharashtra, India**, working at *
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Owskar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Owskar&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Owskar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Owskar&theme=tokyonight&no-frame=true&row=1&margin-w=15" alt="Trophies" />
-</p> -->
-
-<p align="center">
+  <!-- <img 
+    src="https://github-readme-stats-fast.vercel.app/api?username=Owskar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    height="165" 
+  /> -->
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Owskar&layout=compact&theme=tokyonight&hide_border=true" 
+    height="165" 
+  />
+  <img 
+    src="https://streak-stats.demolab.com?user=Owskar&theme=tokyonight&hide_border=true" 
+    height="165" 
+  />
+</p><p align="center">
   <img src="https://raw.githubusercontent.com/Owskar/Owskar/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
 </p>
 
