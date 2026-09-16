@@ -57,7 +57,7 @@ I'm a **Software Developer** based in **Pune, Maharashtra, India**, working at *
 <a href="https://auth.geeksforgeeks.org/user/owskar/practice" target="_blank"><img src="https://img.shields.io/badge/-owskar-2F8D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" /></a>
 <a href="https://leetcode.com/u/Owskar/" target="_blank"><img src="https://img.shields.io/badge/-owskar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://www.codingninjas.com/studio/profile/Owskar" target="_blank"><img src="https://img.shields.io/badge/-owskar-F86F03?style=for-the-badge&logo=codingninjas&logoColor=white" /></a>
-<a href="https://www.instagram.com/owskar_43/" target="_blank"><img src="https://img.shields.io/badge/-@owskar__043-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.instagram.com/owskar_/" target="_blank"><img src="https://img.shields.io/badge/-@owskar_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.facebook.com/oskar.ganbawale/" target="_blank"><img src="https://img.shields.io/badge/-owskar__ganbawale-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" /></a>
 </p>
 
