@@ -155,9 +155,11 @@ I'm a **Software Developer** based in **Pune, Maharashtra, India**, working at *
     src="https://streak-stats.demolab.com?user=Owskar&theme=tokyonight&hide_border=true" 
     height="165" 
   />
-</p><p align="center">
-  <img src="https://raw.githubusercontent.com/Owskar/Owskar/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
 </p>
+
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/Owskar/Owskar/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" width="100%" />
+</p> -->
 
 ---
 
